@@ -1,0 +1,11 @@
+<suite name="Parameter test Suite" verbose="1">
+    <!-- This parameter will be passed to every test in this suite -->
+    <parameter appURL="suite-param" value="suite level parameter" />
+    <test name="Parameter Test one">
+        <classes>
+            <class name="paktolus.Tests_eLabsCreateAccount">
+            </class>
+        </classes>
+    </test>
+
+</suite>
