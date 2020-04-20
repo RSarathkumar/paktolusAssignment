@@ -1,8 +1,9 @@
 # Selenium project to validate and submit a form 
 
 ## Technical Stack:
-1. Selenium (Page object model)
-2. TestNG
+1. Automation framework : Selenium (Page object model)
+2. Test Management  : TestNG
+2. Build Management : Maven 
 
 ### The project consists of following 
 1. Landing the correct url loaded from a property file and verifying the landing of correct page. Headers are checked
